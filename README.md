@@ -25,3 +25,7 @@
     # or
     python test.py --prompt "tuyệt vời"
     ```
+## Data Set
+- 'Download form link and copy it into datasets/':
+## Paper
+- https://www.overleaf.com/read/djfpsgrwdwbh#32572f
